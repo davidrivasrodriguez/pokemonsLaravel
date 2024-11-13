@@ -1,0 +1,8 @@
+Instrucciones
+
+no se sube el .env, si .env.example
+
+en el README.mc Indicaciones:
+
+- composer install
+- Lo renombramos, generamos id (php artisan key:generate), migramos BBDD (php artisan migrate) 

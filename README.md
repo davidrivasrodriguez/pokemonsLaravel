@@ -4,9 +4,9 @@ This application allows users to manage a Pokémon database, including creating,
 
 ## Features
 
-- **Login**: Users can log in to manage Pokémon.
-- **Pokémon Management**: Users can add, edit, view, and delete Pokémon.
-- **Database**: Pokémon data is stored in a MySQL database.
+- **Login**: Users can log in to manage Pokemon.
+- **Pokémon Management**: Users can add, edit, view, and delete Pokemon.
+- **Database**: Pokemon data is stored in a MySQL database.
 - **Data Validation**: Input data validation to ensure database integrity.
 
 ## Installation
